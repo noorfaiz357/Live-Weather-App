@@ -99,8 +99,15 @@ h2{
         margin-top: 50px;
     }
     .search input{
-        width: 70%;
+        width: 75%;
     }
+    .search button{
+        width : 40px;
+        height : 40px;
+    }
+    .search button i{
+        font-size:18px;
+    }   
     .details{
         padding: 0;
     }
